@@ -1,0 +1,1 @@
+export const assets = 'this is Assets folder';

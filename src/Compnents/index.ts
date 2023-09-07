@@ -1,0 +1,1 @@
+export const compenents = 'This is Components folder'
